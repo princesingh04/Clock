@@ -1,0 +1,23 @@
+.my-5{
+    background-color: black;
+    font-weight: 200;
+}
+.jumbotron{
+    background-color: #343a40;
+}
+.display-4{
+    color: white;
+    font-weight: 600;
+}
+.lead ,#epara {
+    color: white;
+    font-style: italic;
+}
+.my-4{
+    color: white;
+}
+#github-icon{
+   
+    padding-right: 9px;
+    margin-left: -18px;
+}
